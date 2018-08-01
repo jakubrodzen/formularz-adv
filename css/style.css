@@ -1,0 +1,21 @@
+h1 {
+    color: royalblue;
+    margin: 0;
+    display: contents;
+
+}
+
+h2 {
+    color: skyblue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    display: contents;
+
+}
+
+.input {
+    bottom: 10px;
+    position: relative;
+    margin: 2px;
+}
